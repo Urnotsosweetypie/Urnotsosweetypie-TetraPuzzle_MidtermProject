@@ -1,7 +1,10 @@
 <h1>Welcome to My App</h1>
     <p>Click the link below to visit the app:</p>
     <a href="https://urnotsosweetypie.github.io/Urnotsosweetypie-TetraPuzzle_MidtermProject/" target="_blank">
-        <button>Visit App</button>
+        <button>TETRA PUZZLE</button>
+        <br>
+        <br>
+        <br>
 
 
 ![2](https://github.com/user-attachments/assets/7828e38a-85d2-4a48-8a82-2eff3ae745d1)
